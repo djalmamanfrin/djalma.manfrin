@@ -1,6 +1,6 @@
 <div>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djalma-manfrin&show_icons=true&theme=radical&layout=compact&langs_count=8"/>
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=djalma-manfrin&show_icons=true&theme=radical"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djalmamanfrin&show_icons=true&theme=radical&layout=compact&langs_count=8"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=djalmamanfrin&show_icons=true&theme=radical"/>
 </div>
 
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
